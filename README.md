@@ -2,4 +2,4 @@
 - 👀 I’m interested in devsecops and cloud native applications
 - 🌱 I’m currently learning the Snyk platform
 - 📫 How to reach me: aidan.oconnor@snyk.io
-- :twitter: @aidan_snyk
+- 🐦 @aidan_snyk
